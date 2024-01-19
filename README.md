@@ -1,1 +1,5 @@
-# SyahrunNizom_213510692_UAS-Prak-DPM
+# Snack Expo (MERN)
+
+FrontEnd :
+https://snack.expo.dev/@alriawi/6?platform=web
+ 
